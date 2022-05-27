@@ -2,7 +2,6 @@
    <img alt="Isometric Data Analysis" src="https://user-images.githubusercontent.com/100473334/170778288-bf2c769c-ab23-4afd-b83b-ac3774ca3fff.gif" width="400">
 
 <h1 align="center">Hi 👋, I'm Anisa Prasetya</h1>
-<h3 align="center">A passionate Data Analyst From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anisaprsty&label=Profile%20views&color=0e75b6&style=flat" alt="anisaprsty" /> </p>
 
